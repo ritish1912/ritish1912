@@ -1,5 +1,8 @@
+<p align="center">
+  <img width="90%%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="ritish1912">
+</p>
 
-<img align="center" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="ritish1912" />
+ <br><br>
 # 💫 About Me:
 👋 Hello, world! I'm Ritish, a passionate Software Developer with a love for coding and problem-solving. My journey in the world of technology has been fueled by curiosity and a relentless pursuit of knowledge.<br>💻 I specialize in Full Stack Development mainly working on technologies such as React.js , Spring Boot and Node.js , and I'm always exploring new technologies to stay on the cutting edge. From crafting elegant code to diving into complex algorithms, I thrive on challenges that push my boundaries.<br>📫 Let's connect! Whether it's about coding, technology trends, or just sharing interesting ideas, feel free to reach out. Together, let's write the future of tech!<br><br>
 
